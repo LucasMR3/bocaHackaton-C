@@ -1,0 +1,3 @@
+/home/lucasmr/CLionProjects/hackaton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucasmr/CLionProjects/hackaton/cmake-build-debug/CMakeFiles/hackaton.dir
+/home/lucasmr/CLionProjects/hackaton/cmake-build-debug/CMakeFiles/edit_cache.dir
